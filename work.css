@@ -30,7 +30,7 @@ section {
 }
 
 .section1 {
-  background: url(https://picsum.photos/g/1920/1080?random) top center;
+  background: #fafafa;
   box-shadow: 0 0 20px #333;
   z-index: 1;
 }
